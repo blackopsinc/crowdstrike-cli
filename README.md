@@ -233,9 +233,6 @@ The tool uses:
 
 ## License
 
-[Add your license information here]
+GPL-3.0 license
 
 ## Contributing
-
-[Add contribution guidelines if applicable]
-
